@@ -1,4 +1,4 @@
-<h1 align="center"> Drug Recommendation Using Drug Reviews </h1>
+<h1 align="center"> Sentimental Analysis of Drug Reviews </h1>
  
 ![drugs](https://user-images.githubusercontent.com/110327175/223653266-a0774b7f-b78c-4145-b80b-6163d1a27d41.jpg)
 
